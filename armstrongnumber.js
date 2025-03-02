@@ -1,5 +1,4 @@
 
-
 const number = '143' 
 const len = number.length 
 let sum = 0 
